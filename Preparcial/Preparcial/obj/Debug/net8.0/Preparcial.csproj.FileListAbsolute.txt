@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\bin\Debug\net8.0\Preparcial.exe
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\bin\Debug\net8.0\Preparcial.deps.json
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\bin\Debug\net8.0\Preparcial.runtimeconfig.json
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\bin\Debug\net8.0\Preparcial.dll
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\bin\Debug\net8.0\Preparcial.pdb
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\Preparcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\Preparcial.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\Preparcial.AssemblyInfo.cs
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\Preparcial.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\Preparcial.dll
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\refint\Preparcial.dll
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\Preparcial.pdb
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\Preparcial.genruntimeconfig.cache
+C:\Users\LABORATORIO\Documents\Visual Studio 2022\Preparcial\Preparcial\obj\Debug\net8.0\ref\Preparcial.dll
